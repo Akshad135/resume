@@ -8,7 +8,7 @@
 
 **VIT BHOPAL UNIVERSITY** | Computer Science and Engineering (AIML) | Oct 2022 - 2026
 
-- CGPA: 8.87/10
+- CGPA: 8.95/10
 
 **PROJECTS**
 
