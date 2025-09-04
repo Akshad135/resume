@@ -1,56 +1,43 @@
-# CV_Akshad_Agrawal
+# Akshad Agrawal
 
-**AKSHAD AGRAWAL**
+## Contact
+- Email: [akshad.contact@gmail.com](mailto:akshad.contact@gmail.com)
+- Phone: +91 9998054685
+- LinkedIn: [linkedin.com/in/akshad135](http://linkedin.com/in/akshad135) 
+- GitHub:  [github.com/akshad135](http://github.com/akshad135)
 
-[akshad.agrawal@vit.ac.in](mailto:akshad.agrawal@vit.ac.in) | [linkedin.com/in/akshad](http://linkedin.com/in/akshad) | [github.com/akshad](http://github.com/akshad)
+## Education
+- VIT Bhopal University — B.Tech, Computer Science and Engineering (AIML specialization), Oct 2022–2026. 
+- CGPA: 9.01/10. 
 
-**EDUCATION**
+## Projects
 
-**VIT BHOPAL UNIVERSITY** | Computer Science and Engineering (AIML) | Oct 2022 - 2026
+### ACES: Adaptive Confidence-Based Ensemble System
+- Architected a dynamic ensemble learning system that rewards models based on historical confidence calibration accuracy rather than static weighting. 
+- Built a multi-stage pipeline with a ConfidenceTracker and a Similarity-Based Lookup (embeddings) to assess model reliability on similar inputs. 
+- Implemented continuous learning to update dynamic weights using reliability scores, improving robustness by prioritizing well‑calibrated models. 
 
-- CGPA: 8.95/10
+### Multi-Agent Architecture for Problem Solving
+- Developed a Python-based AI multi-agent system that decomposes complex queries into steps such as problem definition, decomposition, code generation, testing, and iterative refinement. 
+- Orchestrated specialized agents (Problem Definer, Decomposer, Generator, Workers, Compiler, Tester, Error Identifier, Editor) to collaborate in a structured workflow for accurate solutions. 
+- Stack: Python, LLM APIs. 
 
-**PROJECTS**
+### AI News Generator
+- Built an AI-powered news/article generator that performs live web research on a topic and outputs a structured, cited blog post. 
+- Designed a multi-agent workflow (research agent + content writer agent) using CrewAI, Serper API for search, and Cohere LLM for generation. 
+- Created a Streamlit frontend with user input, advanced settings, and one‑click Markdown download of generated articles. 
 
-1) **AI Club Website**
+## Skills
+- Languages: Rust, Python. 
+- Domain: LangChain, Deep Learning, System Programming (CLI tools). 
+- Databases: MySQL, PostgreSQL. 
+- Frameworks: discord.py, Py-Cord, TensorFlow, Keras.
 
-  - Collaborated with the AIClub web team to redesign and develop the club's dynamic and responsive website
-  - Contributed to gallery and team members sections, participated in code reviews, and resolved bugs
-  - *Technologies:* React, Vite, GSAP, SWC
+## Additional Experience and Awards
+- Second Prize, Qriosity — Secured second place in the quiz-based competition conducted by the IEEE Club.
+- Certifications: Applied Machine Learning in Python (Coursera); The Complete Web Development Bootcamp (Udemy).
 
-2) **Discord Bot**
-
-  - Designed and implemented a multifunctional Discord bot reducing moderator workload by 25%
-  - Enhanced community-building initiatives and user participation
-  - *Technologies:* Python (Py-Cord), Heroku
-
-3) **Groq CLI Tool**
-
-  - Created an automated script to retrieve data from the Groq API
-  - Streamlined information retrieval for team projects, improving workflow efficiency
-  - *Technologies:* Rust (tokio)
-
-**ACHIEVEMENTS**
-
-- Second Prize, Android App Competition: Developed a music-focused Progressive Web App (PWA)
-- Second Prize, Qriosity: IEEE Club quiz competition
-
-**CERTIFICATIONS**
-
-- Python Essentials, Vityarthi
-- The Complete Web Development Bootcamp, Udemy
-
-**TECHNICAL SKILLS**
-
-- **Operating Systems:** Linux (Fedora), Windows
-- **Languages:** Rust, Python, HTML, CSS, JavaScript
-- **Domain Expertise:** Deep Learning, System Programming (CLI tools), Web Development
-- **Databases:** MongoDB, PostgreSQL
-- **Frameworks:** React Native, Discordpy, Py-Cord
-- **Tools:** NeoVim, Data Structures and Algorithms, OOPS
-
-**LEADERSHIP & ACTIVITIES**
-
-- **AI Club Web Team Member:** Developed official website ([aivitb.com](http://aivitb.com)) using Vite and React
-- **Data Science Club Web Team Co-Lead:** Organized flagship event with GeeksforGeeks CTO (250+ attendees)
-- **Tech Lead:** Meraki - The Fine Arts Club
+## Extracurricular
+- AI Club — Web Team.
+- Data Science Club — Web Team Co‑Lead.
+- Meraki: The Fine Arts Club — Tech Lead.
