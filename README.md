@@ -12,11 +12,6 @@
 
 ## Projects
 
-### ACES: Adaptive Confidence-Based Ensemble System
-- Architected a dynamic ensemble learning system that rewards models based on historical confidence calibration accuracy rather than static weighting. 
-- Built a multi-stage pipeline with a ConfidenceTracker and a Similarity-Based Lookup (embeddings) to assess model reliability on similar inputs. 
-- Implemented continuous learning to update dynamic weights using reliability scores, improving robustness by prioritizing well‑calibrated models. 
-
 ### Multi-Agent Architecture for Problem Solving
 - Developed a Python-based AI multi-agent system that decomposes complex queries into steps such as problem definition, decomposition, code generation, testing, and iterative refinement. 
 - Orchestrated specialized agents (Problem Definer, Decomposer, Generator, Workers, Compiler, Tester, Error Identifier, Editor) to collaborate in a structured workflow for accurate solutions. 
